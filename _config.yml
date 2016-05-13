@@ -1,0 +1,14 @@
+layout_spectrum: 0.5601833085529506
+typography_spectrum: 0.2084740251302719
+color:
+  brandStrength: 0.7884557710494846
+  lightness: 0.8495815743226558
+  saturation: 0.12371280184015632
+  rhythmicContrast: 0.5988907543942332
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Lake Lucerne
