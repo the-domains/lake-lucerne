@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T19:30:21.381Z'
+datePublished: '2016-05-13T19:30:25.672Z'
 sourcePath: _posts/2016-04-16-there-and-back-again-a-cross-country-epic.md
 inFeed: true
 isBasedOnUrl: 'https://alphauniverse.com/stories/there-and-back-again--a-cross-country-epic/'
@@ -17,7 +17,7 @@ keywords:
   - garment
 related: []
 author: []
-dateModified: '2016-05-13T19:30:21.026Z'
+dateModified: '2016-05-13T19:30:25.453Z'
 title: 'There & Back Again: A Cross-Country Epic'
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "It's usually late February or early March when I load up my vehicle with tools of photographic wonder to embark on a journey from Asheville, NC into the unknown and across the U.S. Destination: Las Vegas. WPPI to be exact, where I have been an educator there since 2002."
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
