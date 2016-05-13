@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T19:28:00.709Z'
+datePublished: '2016-05-13T19:30:05.423Z'
 sourcePath: _posts/2016-04-16-light-painting-with-pixelstick.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/78163959'
@@ -10,7 +10,7 @@ author:
   - name: Bitbanger
     url: 'http://vimeo.com/bitbangerlabs'
     avatar: {}
-dateModified: '2016-05-13T19:27:59.710Z'
+dateModified: '2016-05-13T19:30:04.736Z'
 title: Light painting with pixelstick
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/78163959'
@@ -46,7 +46,7 @@ publisher:
   domain: vimeo.com
 description: "More info at thepixelstick.com! We spent the last year building pixelstick, a light painting tool capable of everything from photo-real renders to amazing abstract ribbons. We've improved with every iteration and are excited to finally show off what it can do. Everything was shot by just two slightly sleep deprived guys and one Pixelstick in Brooklyn."
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: VideoObject
 
